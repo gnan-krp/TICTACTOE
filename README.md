@@ -28,13 +28,11 @@ TicTacToe/
 ```bash
 gcc main.c game.c -o TicTacToe
 
-./TicTacToe   # Linux/Mac
-TicTacToe.exe # Windows
+3. Run the game:
 
-Players X and O take turns choosing a cell (1-9) corresponding to the board:
+# Linux / Mac
+./TicTacToe
 
- 1 | 2 | 3
- ----------
- 4 | 5 | 6
- ----------
- 7 | 8 | 9
+# Windows
+TicTacToe.exe
+
