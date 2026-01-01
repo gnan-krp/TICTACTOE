@@ -27,12 +27,3 @@ TicTacToe/
 
 ```bash
 gcc main.c game.c -o TicTacToe
-
-3. Run the game:
-
-# Linux / Mac
-./TicTacToe
-
-# Windows
-TicTacToe.exe
-
